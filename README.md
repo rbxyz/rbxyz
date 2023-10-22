@@ -14,7 +14,7 @@ e em alguns particulares que envolvem meros testes nos meus [repositórios](http
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 <br>
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 <br>
 ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
@@ -29,7 +29,9 @@ e em alguns particulares que envolvem meros testes nos meus [repositórios](http
 Dentre outros adversos....
 
 ## Mim
-[]([https://github-readme-stats.vercel.app/api?username={username}&theme=blue-green](https://github-readme-stats.vercel.app/api?username={username}&theme=blue-green)](https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green))
+![rbzinn14](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
+![](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=rbxyz&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
