@@ -29,7 +29,7 @@ e em alguns particulares que envolvem meros testes nos meus [repositórios](http
 Dentre outros adversos....
 
 ## Mim
-https://github-readme-stats.vercel.app/api?username={username}&theme=blue-green
+[]([https://github-readme-stats.vercel.app/api?username={username}&theme=blue-green](https://github-readme-stats.vercel.app/api?username={username}&theme=blue-green)](https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green))
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=rbxyz&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
