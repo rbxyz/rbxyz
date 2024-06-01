@@ -1,6 +1,6 @@
 ## <fala querido, eu sou o Ruan Gabriel, trás um café namoral> 👋 </>
 
-gosto de programar, porém recentemente embalei de vez na área, sei Python, HTML5 e CSS3. O homi da aula de Poturgol Studio informalmente pra 1º ano E.M.
+gosto de programar, porém recentemente embalei de vez na área, sei Python, HTML5, CSS3 e JS. O homi da aula de Poturgol Studio informalmente pra 1º ano E.M.
 
 Atualmente me encontro em alguns projetos como:
 >[IFSocial](https://github.com/cocacolacomvodka/IFSocial)
