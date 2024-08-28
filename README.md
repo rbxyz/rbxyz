@@ -25,8 +25,9 @@ e em alguns particulares que envolvem meros testes nos meus [repositórios](http
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 <br>
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<br>
+[React]
 </br>
-Dentre outros adversos....
 
 ## Mim
 ![rbzinn14](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
