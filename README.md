@@ -1,11 +1,11 @@
 ## <fala querido, eu sou o Ruan Gabriel, trás um café namoral> 👋 </>
 
-👾 | 18 anos
-📚 | IFSul V.A - T.I
-💻 | CEO Allpines
-🐱‍👤 | Frontend e Gestor de Tráfego e Conversão
+👾 | 18 anos <br>
+📚 | IFSul V.A - T.I <br>
+💻 | CEO Allpines <br>
+🐱‍👤 | Frontend e Gestor de Tráfego e Conversão <br>
 
-React t3 & Next.js <3. . . . 
+React t3 & Next.js <3. . . . <br>
 
 Atualmente me encontro em alguns projetos como:
 >[IFSocial](https://github.com/cocacolacomvodka/IFSocial)
