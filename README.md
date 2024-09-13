@@ -9,7 +9,7 @@ React t3 & Next.js <3. . . . <br>
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=jdalmeida&repo=allprotect&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/jdalmeida/allprotect)
 
 Atualmente me encontro em alguns projetos como:
->[IFSocial](https://github.com/cocacolacomvodka/IFSocial)
+>[Allprotect](https://github.com/jdalmeida/allprotect)
 e em alguns particulares que envolvem alguns testes nos meus [repositórios](https://github.com/rbxyz?tab=repositories).
 >
 # Projetos
