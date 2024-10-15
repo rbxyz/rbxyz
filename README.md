@@ -6,12 +6,10 @@
 🐱‍👤 | Frontend e Gestor de Tráfego e Conversão <br>
 
 React t3 & Next.js <3. . . . <br>
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=jdalmeida&repo=allprotect&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/jdalmeida/allprotect)
 
 Atualmente me encontro em alguns projetos como:
->[Allprotect](https://github.com/jdalmeida/allprotect)
-e em alguns particulares que envolvem alguns testes nos meus [repositórios](https://github.com/rbxyz?tab=repositories).
->
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=jdalmeida&repo=allprotect&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/jdalmeida/allprotect)
+
 # Projetos
 - [Portifólio pessoal](https://www.ruanbueno.cloud/)
 
