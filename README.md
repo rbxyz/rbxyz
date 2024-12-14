@@ -1,4 +1,4 @@
-## <fala querido, eu sou o Ruan Gabriel, trás um café namoral> 👋 </>
+## <fala querido, eu sou o Ruan Bueno, explore a vontade!> 👋 </>
 
 👾 | 18 anos <br>
 📚 | IFSul V.A - T.I <br>
