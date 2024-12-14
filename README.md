@@ -12,7 +12,9 @@ Atualmente me encontro em alguns projetos como: <br>
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=jdalmeida&repo=allprotect&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/jdalmeida/allprotect)
 
 # Projetos
-- [Portifólio pessoal](https://www.ruanbueno.cloud/)
+- [AZap - Acesso em breve]
+- [AllProtect - Acesso em breve]
+- [AllPines Website](https://allpines.com.br)
 
 ## Tecnologias:
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rbxyz&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
