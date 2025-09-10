@@ -34,7 +34,7 @@ Para ver meus projetos, acesse:
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rbxyz&theme=dracula)
 
 🐍 Contribuições animadas:  
-![Snake animation](https://github.com/rbxyz/rbxyz/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/rbxyz/rbxyz/output/snake.svg)
 
 ---
 
