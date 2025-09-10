@@ -51,7 +51,7 @@ Para ver meus projetos, acesse:
 
 ## 📬 Contato:
 [![Instagram](https://img.shields.io/badge/Instagram-@rb_rs_-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/rb_rs_)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ruan_Bueno-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/ruan-bueno-68929923a)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ruan_Bueno-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/rbxyz)  
 ![Email](https://img.shields.io/badge/rbcr4z1@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)
 
 ---
