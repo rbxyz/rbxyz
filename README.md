@@ -3,7 +3,7 @@
 👾 | 19 anos <br>
 📚 | IFSul V.A - T.I <br>
 💻 | CEO Allpines <br>
-🐱‍👤 | Dev. Full Stack (T3 ?? Tanstack) <br>
+🐱‍👤 | Dev. Full Stack (T3 || Tanstack) <br>
 
 React t3 & Next.js <3. . . . <br>
 
