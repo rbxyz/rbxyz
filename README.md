@@ -8,7 +8,7 @@
 React & Next.js t3 <3. . . . <br>
 
 Para ver meus projetos, acesse:  
-👉 [ruan.allpines.com.br](https://ruan.allpines.com.br/)
+👉 [<Portifolio />](https://ruan.allpines.com.br/)
 
 ---
 
