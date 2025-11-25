@@ -5,7 +5,7 @@
 💻 | CEO Allpines <br>
 🐱‍👤 | Dev. Full Stack (T3 || Tanstack) <br>
 
-React t3 & Next.js <3. . . . <br>
+React & Next.js t3 <3. . . . <br>
 
 Para ver meus projetos, acesse:  
 👉 [ruan.allpines.com.br](https://ruan.allpines.com.br/)
