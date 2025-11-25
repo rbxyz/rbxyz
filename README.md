@@ -13,7 +13,7 @@ Para ver meus projetos, acesse:
 ---
 
 ## 🚀 Tecnologias:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rbxyz&layout=compact&theme=dracula&hide_border=true)
+![Top Languages](https://top-langs-eta.vercel.app/api/top-langs?rbxyz=torvalds&theme=dracula&count=3)
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
