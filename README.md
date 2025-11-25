@@ -1,4 +1,4 @@
-## <fala querido, eu sou o Ruan Bueno, explore a vontade!> 👋 </>
+## <fala querido, eu sou o Ruan Bueno, explore a vontade!>👋 </>
 
 👾 | 19 anos <br>
 📚 | IFSul V.A - T.I <br>
