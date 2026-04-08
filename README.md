@@ -1,6 +1,6 @@
 ## <fala querido, eu sou o Ruan Bueno, explore a vontade!>👋 </>
 
-👾 | 19 anos <br>
+👾 | 20 anos <br>
 📚 | IFSul V.A - T.I <br>
 💻 | CEO Allpines <br>
 🐱‍👤 | Dev. Full Stack (T3 || Tanstack) <br>
