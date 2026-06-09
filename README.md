@@ -28,9 +28,6 @@ Para ver meus projetos, acesse:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rbxyz&show_icons=true&theme=dracula&count_private=true)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=rbxyz&theme=dracula&hide_border=true)
 
-📈 Contribuições em tempo real:  
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rbxyz&theme=dracula)
-
 🐍 Contribuições animadas:  
 ![Snake animation](https://raw.githubusercontent.com/rbxyz/rbxyz/output/snake.svg)
 
