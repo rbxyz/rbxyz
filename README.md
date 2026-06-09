@@ -1,7 +1,7 @@
 ## <fala querido, eu sou o Ruan Bueno, explore a vontade!>👋 </>
 
 💻 | CEO Allpines <br>
-🐱‍👤 | Dev. Full Stack (T3 || Tanstack) <br>
+🚀 | Dev. Full Stack (T3 || Tanstack) <br>
 
 React & Next.js t3 <3. . . . <br>
 
