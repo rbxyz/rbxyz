@@ -21,7 +21,7 @@ Para ver meus projetos, acesse:
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ---
-## Top Langs (api autoral)
+## Top Langs (API autoral)
 ![Top Languages](https://moon-top-langs.vercel.app/api/top-langs?username=rbxyz&theme=dark&count=5&layout=compact)
 
 ## 📊 GitHub Analytics
